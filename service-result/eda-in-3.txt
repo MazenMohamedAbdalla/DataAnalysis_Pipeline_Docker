@@ -1,0 +1,6 @@
+Example insight 3: Summary statistics for categorical columns:
+          Target AgeGroup
+count       2476     2473
+unique         3        1
+top     Graduate    Child
+freq        1263     2473

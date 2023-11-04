@@ -1,0 +1,1 @@
+Example insight 1: The dataset contains 2476 rows and 37 columns.
